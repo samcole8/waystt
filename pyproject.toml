@@ -1,0 +1,14 @@
+[project]
+name = "waystt"
+version = "0.0.0"
+description = "waystt"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[project.scripts]
+waystt = "waystt.main:main"

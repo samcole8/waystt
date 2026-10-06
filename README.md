@@ -1,3 +1,3 @@
-# py-template
+# waystt
 
-Python template for small projects.
+Simple speech-to-text for Wayland on Linux.
